@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QcqXG5V0Uv0YgsuYfVPsX5I+mHbdvA3EkW0W6ksYeH8HHHg/k3eWTTSzENOavnUX/cJn2ATkq66AigRNVideMg==",
+  "dgSpecHash": "+D2KzdF5a0WvZs5apcKIoLK7qOit3iaKG1LRgsrgewPVMQ4PZZs2E/dVG4EXAmpGuT8N9eTGVwbMfQ2zZwo2QQ==",
   "success": true,
-  "projectFilePath": "D:\\UNIVERSITATE\\Semestrul 5\\IDWeb\\Lab 3\\App\\gameStats-master - try\\gameStats.csproj",
+  "projectFilePath": "D:\\UNIVERSITATE\\Semestrul 5\\IDWeb\\Lab 3\\App _lab\\gameStats-master-try\\gameStats.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\messagepack\\1.7.3.4\\messagepack.1.7.3.4.nupkg.sha512",
