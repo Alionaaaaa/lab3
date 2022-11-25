@@ -145,3 +145,65 @@ D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master - try\obj\Debug\net
 D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master - try\obj\Debug\netcoreapp2.1\gameStats.genruntimeconfig.cache
 D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master - try\obj\Debug\netcoreapp2.1\gameStats.csproj.CopyComplete
 D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master - try\obj\Debug\netcoreapp2.1\gameStats.csproj.AssemblyReference.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\bin\Debug\netcoreapp2.1\appsettings.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.deps.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.runtimeconfig.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.runtimeconfig.dev.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.dll
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.pdb
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.Views.dll
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.Views.pdb
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.csproj.AssemblyReference.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.AssemblyInfoInputs.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.AssemblyInfo.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.csproj.CoreCompileInputs.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorAssemblyInfo.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorAssemblyInfo.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.TagHelpers.input.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.TagHelpers.output.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorCoreGenerate.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\Search\NoName.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\Search\SearchHome.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\Search\SearchPlayer.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorTargetAssemblyInfo.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorTargetAssemblyInfo.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.Views.pdb
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.dll
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.pdb
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.genruntimeconfig.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.csproj.CopyComplete
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\bin\Debug\netcoreapp2.1\appsettings.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.deps.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.runtimeconfig.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.runtimeconfig.dev.json
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.dll
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.pdb
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.Views.dll
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\bin\Debug\netcoreapp2.1\gameStats.Views.pdb
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.csproj.AssemblyReference.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.AssemblyInfoInputs.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.AssemblyInfo.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.csproj.CoreCompileInputs.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorAssemblyInfo.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorAssemblyInfo.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.TagHelpers.input.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.TagHelpers.output.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorCoreGenerate.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\Search\NoName.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\Search\SearchHome.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\Search\SearchPlayer.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorTargetAssemblyInfo.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.RazorTargetAssemblyInfo.cs
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.Views.pdb
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.dll
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.pdb
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.genruntimeconfig.cache
+D:\UNIVERSITATE\Semestrul 5\IDWeb\Lab 3\App _lab\gameStats-master-try\obj\Debug\netcoreapp2.1\gameStats.csproj.CopyComplete
